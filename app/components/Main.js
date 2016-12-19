@@ -11,4 +11,4 @@ var Main = React.createClass({
   }
 });
 
-ReactDOM.render(<Main />, document.getElementbyId('app'))
+ReactDOM.render(<Main />, document.getElementById('app'))
